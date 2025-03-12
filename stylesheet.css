@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'OLCK Optimum';
-    src: url('OLCKOptimum-Medium.woff2') format('woff2'),
+    src: url('https://github.com/ramesh-soren/OLCKOptimum-Medium/blob/main/OLCKOptimum-Medium.woff2') format('woff2'),
         url('OLCKOptimum-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
